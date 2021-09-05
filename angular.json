@@ -32,6 +32,8 @@
             ],
             "styles": [
               "./node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css",
+              "./node_modules/font-awesome/css/font-awesome.min.css",
+              "./node_modules/font-awesome/scss/font-awesome.scss",
               "src/styles.sass"
             ],
             "scripts": []
